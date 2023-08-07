@@ -5,3 +5,7 @@ Some small projects developed in go language.
 
 ### watermark
 > 水印 - 给图片添加水印
+
+### rtt-openai
+
+> Real-time translation + ChatGPT (实时翻译+ChatGPT对话)

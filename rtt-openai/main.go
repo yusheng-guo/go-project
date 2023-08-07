@@ -8,7 +8,7 @@ import (
 	"net/url"
 )
 
-const token = "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"
+const token = "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"
 
 func main() {
 	// 1. 设置配置 & 代理
